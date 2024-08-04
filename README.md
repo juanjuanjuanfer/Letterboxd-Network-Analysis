@@ -1,6 +1,6 @@
 # Letterboxd Network Analysis
 
-Welcome to my **Letterboxd Network Analysis** repository! This repository contains the code, data, and analyses used in my exploration of social networks on the Letterboxd platform. The work is split across three papers, each focusing on different aspects of network theory, information diffusion, and link prediction. Below, you’ll find a guide to the contents of this repository and how to get started. (I's sorry things arent well organized, I'll work on it!)
+Welcome to my **Letterboxd Network Analysis** repository! This repository contains the code, data, and analyses used in my exploration of social networks on the Letterboxd platform. The work is split across three papers, each focusing on different aspects of network theory, information diffusion, and link prediction. Below, you’ll find a guide to the contents of this repository and how to get started. (I'm sorry things arent well organized, I'll work on it!)
 
 ## Repository Structure
 
